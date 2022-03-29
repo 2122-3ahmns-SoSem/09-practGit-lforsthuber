@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class PractGit : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public int test;
+
     void Start()
     {
-        
+        test = 13;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
